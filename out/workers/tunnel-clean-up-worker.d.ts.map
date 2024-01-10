@@ -1,0 +1,1 @@
+{"version":3,"file":"tunnel-clean-up-worker.d.ts","sourceRoot":"","sources":["../../src/workers/tunnel-clean-up-worker.ts"],"names":[],"mappings":"AAGA,oBAAY,oBAAoB,GAAG;IACjC,IAAI,EAAE,MAAM,EAAE,CAAC;IACf,UAAU,EAAE,MAAM,EAAE,CAAC;CACtB,CAAC;AAEF,qBAAa,mBAAmB;IACvB,MAAM,IAAI,IAAI;CAwBtB"}
